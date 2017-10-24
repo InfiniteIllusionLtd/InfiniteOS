@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to Infinite Illusion, Ltd.
 
-You can use the [editor on GitHub](https://github.com/InfiniteIllusionLtd/InfiniteOS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Attention: translation into English is done with the help of Google translator.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Information about the firmware
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The beginning of the development of the firmware on October 24, 2017 (DD / MM / YYYY). <- this is important!
 
-```markdown
-Syntax highlighted code block
+The firmware is developed by a competent team (1 person at GitHab), the firmware will include all the possibilities of "Oreo" from Google including our developments, modifications and new functions.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Release
 
-1. Numbered
-2. List
+TBA
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Supported devices
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/InfiniteIllusionLtd/InfiniteOS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+LeEco Le 2 s2 (x527)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having questions? Email us at infiniteillusionlimited@gmail.com.
